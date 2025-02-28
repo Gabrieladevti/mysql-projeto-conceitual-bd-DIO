@@ -1,12 +1,3 @@
-# Refinando um Projeto Conceitual de Banco de Dados E-COMMERCE:
-
-#### Projeto proposto no Bootcamp [Geração Tech Unimed-BH - Ciência de Dados](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados) na plataforma [DIO.](https://www.dio.me/)
-
-### Descrição do Desafio
-_"Modelamos juntos um contexto reduzido de e-commerce. Agora é a sua vez, podes escolher a ferramenta de modelagem para realizar o desafio. Contudo, fique atento! Caso opte por uma variação do modelo entidade relacionamento, como nas ferramentas Mysql Workbench ou DBDesigner será preciso especificar as PK e FKs corretamente. Apesar desse conceito não ser utilizado na modelagem conceitual exploramos brevemente suas definições. Sendo assim, seu empregável será o esquema conceitual para o cenário de E-commerce."_ 
-
-Instrutora: *Juliana Mascarenhas*
-</b>
 
 ### Objetivo:
 Refine o modelo apresentado acrescentando os seguintes pontos:
